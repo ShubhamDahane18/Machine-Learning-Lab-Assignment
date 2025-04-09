@@ -1,5 +1,9 @@
 ## Name: Shubham Gautam Dahane
 
+## Roll No: 282015
+## Branch: CSE AI
+
+
 # Machine Learning Lab Assignments
 
 This repository contains Machine Learning lab assignments completed as part of coursework. The assignments include implementations of various ML algorithms and concepts using Python and relevant libraries.
@@ -35,11 +39,7 @@ pip install numpy pandas matplotlib scikit-learn jupyter
 2. Navigate to the required assignment folder and open the respective `.ipynb` or `.py` file.
 3. Run the scripts in Jupyter Notebook or directly execute the Python files.
 
-## Assignments Covered
 
-1. **Assignment 1** - [Brief Description]
-2. **Assignment 2** - [Brief Description]
-3. **More assignments will be added as the course progresses.**
 
 ## Contributing
 
